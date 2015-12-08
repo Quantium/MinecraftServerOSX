@@ -9,3 +9,4 @@ logs/
 ops.json
 usercache.json
 world/
+crash-reports/
