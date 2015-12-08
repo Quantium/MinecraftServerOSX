@@ -6,7 +6,6 @@ MinecraftInstaller.msi
 banned-ips.json
 banned-players.json
 logs/
-minecraft_server.1.8.4.jar
 ops.json
 usercache.json
 world/
